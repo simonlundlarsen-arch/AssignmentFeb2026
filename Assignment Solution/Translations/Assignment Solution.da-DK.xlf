@@ -1,0 +1,423 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="da-DK" original="Assignment Solution">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2426884988 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Assignment</source>
+<target state="translated">Planlægningsopgave</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SLL Assignment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2426884988 - Field 3877927551 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Category Code</source>
+<target state="translated">Kategorikode</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SLL Assignment - Field Category Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2426884988 - Field 1171137197 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Name</source>
+<target state="translated">Debitornavn</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SLL Assignment - Field Customer Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2426884988 - Field 4190130733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No.</source>
+<target state="translated">Debitornr.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SLL Assignment - Field Customer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2426884988 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+<target state="translated">Beskrivelse</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SLL Assignment - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2426884988 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Assignment No.</source>
+<target state="translated">Opgave nr.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SLL Assignment - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2426884988 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+<target state="translated">Status</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SLL Assignment - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2426884988 - Field 329424276 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Title</source>
+<target state="translated">Titel</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SLL Assignment - Field Title - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2426884988 - Field 2708250016 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User ID</source>
+<target state="translated">Bruger-id</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SLL Assignment - Field User ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1072124513 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Assignment Setup</source>
+<target state="translated">Opgaveopsætning</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SLL Assignment Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1072124513 - Field 4104484437 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Assignment Handler Type</source>
+<target state="translated">Tildelingshåndterertype</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SLL Assignment Setup - Field Assignment Handler - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1072124513 - Field 1351594800 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Series</source>
+<target state="translated">Nummerserie</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SLL Assignment Setup - Field No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1072124513 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+<target state="translated">Primærnøgle</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SLL Assignment Setup - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3701045171 - Method 4183682721 - NamedType 1582893390" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Assignment Setup</source>
+<target state="translated">Opgaveopsætning</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SLL Assignment Assisted Setup - Method AddExtensionAssistedSetup_OnRegisterAssistedSetup - NamedType TitleLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3701045171 - Method 4183682721 - NamedType 3800423060" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Assited Setup Assignment</source>
+<target state="translated">Opgave til assisteret opsætning</target>
+<target state="translated">Assisteret opsætningsopgave</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SLL Assignment Assisted Setup - Method AddExtensionAssistedSetup_OnRegisterAssistedSetup - NamedType ShortTitleLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3701045171 - Method 4183682721 - NamedType 3569966352" size-unit="char" translate="yes" xml:space="preserve">
+<target state="translated">Assisteret opsætningsopgave</target>
+          <source>Assited Setup Assignment</source>
+<target state="translating with DynaBooster"/>          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SLL Assignment Assisted Setup - Method AddExtensionAssistedSetup_OnRegisterAssistedSetup - NamedType DescriptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3701045171 - Method 1858114840 - NamedType 254384817" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This setup is already done. Do you want to open the setup page instead?</source>
+<target state="translating with DynaBooster"/>          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SLL Assignment Assisted Setup - Method OnReRunOfCompletedSetup - NamedType SetupAlreadyDoneQst</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3844839754 - Method 62207364 - NamedType 4238910616" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Remember to post Sales Document %1</source>
+<target state="translated">Husk at bogføre salgsdokumentet %1</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SLL Assignment Mgt - Method Release Sales Document_OnBeforeReleaseSalesDoc - NamedType SalesDocDescriptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3844839754 - Method 62207364 - NamedType 1545679286" size-unit="char" translate="yes" xml:space="preserve">
+<target state="translated">Bogfør salgsdokument %1</target>
+          <source>Post Sales Doc %1</source>
+<target state="translating with DynaBooster"/>          <note from="Developer" annotates="general" priority="2">Sales Header No.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SLL Assignment Mgt - Method Release Sales Document_OnBeforeReleaseSalesDoc - NamedType SalesDocTitleLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2940762578 - Method 2345119762 - NamedType 1803812000" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The Request did not complete successfully</source>
+<target state="translating with DynaBooster"/>          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SLL JsonPlaceholder API Mgt - Method GetData - NamedType RequestErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2940762578 - Method 2345119762 - NamedType 1556380518" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Connection Done\\ %1</source>
+<target state="translated">Forbindelse gennemført\\ %1</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SLL JsonPlaceholder API Mgt - Method GetData - NamedType SuccessMsg</note>
+        </trans-unit>
+        <trans-unit id="Page 2741473667 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>About Assignments</source>
+<target state="translated">Om opgaver</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Assignment List - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 2741473667 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Overview of Assignments.</source>
+<target state="translated">Oversigt over opgaver.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Assignment List - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 2741473667 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+<target state="translated">Tildelinger</target>
+          <source>Assignments</source>
+<target state="translating with DynaBooster"/>          <note from="Developer" annotates="general" priority="2"></note>
+<target state="translated">Opgaveliste, Opgave, Gøremål, Gøremål, Opgave</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Assignment List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2741473667 - Property 3863440606" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Assignment List, Assignment, To do, To Do, Task</source>
+<target state="translating with DynaBooster"/>          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Assignment List - Property AdditionalSearchTerms</note>
+        </trans-unit>
+<target state="translated">Angiver værdien af feltet Kategorikode.</target>
+        <trans-unit id="Page 2741473667 - Control 3877927551 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Category Code field.</source>
+<target state="translated">Angiver det filter, der viser en oversigt over bilag med en bestemt værdi, i feltet Debitornr.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Assignment List - Control Category Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2741473667 - Control 4190130733 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Customer No. field.</source>
+<target state="translated">Angiver værdien af feltet Opgave nr.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Assignment List - Control Customer No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2741473667 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Assignment No. field.</source>
+<target state="translated">Angiver det filter, der viser en oversigt over bilag med en bestemt værdi, i feltet Status.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Assignment List - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2741473667 - Control 513339096 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Status field.</source>
+<target state="translated">Angiver værdien af feltet Titel.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Assignment List - Control Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2741473667 - Control 329424276 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Title field.</source>
+<target state="translated">Opret en ny opgave.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Assignment List - Control Title - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2741473667 - Action 2851454604 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Creates a new assignment.</source>
+<target state="translating with DynaBooster"/>          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Assignment List - Action ExportToExcel - Property ToolTip</note>
+        </trans-unit>
+<target state="translated">Opret opgave</target>
+        <trans-unit id="Page 2741473667 - Action 2851454604 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Assignment</source>
+<target state="translating with DynaBooster"/>          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Assignment List - Action ExportToExcel - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2741473667 - Action 871764801 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+<target state="translated">Opret en CSV-eksport.</target>
+<target state="translated">Hent forudfyldt data</target>
+          <source>Get Prefilled Data</source>
+<target state="translating with DynaBooster"/>          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Assignment List - Action GetPrefilledData - Property Caption</note>
+<target state="translated">Opret CSV-eksport af opgaver</target>
+        </trans-unit>
+        <trans-unit id="Page 2741473667 - Action 2064540691 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Creates a CSV Export.</source>
+<target state="translating with DynaBooster"/>          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Assignment List - Action ExportToCSV - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2741473667 - Action 2064540691 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Assignment CSV Export</source>
+<target state="translating with DynaBooster"/>          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Assignment List - Action ExportToCSV - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2741473667 - Action 2034514482 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Creates a XML Export.</source>
+<target state="translated">Opretter en XML-eksport.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Assignment List - Action ExportToXML - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2741473667 - Action 2034514482 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Assignment xml Export</source>
+<target state="translated">Opret opgave XML-eksport</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Assignment List - Action ExportToXML - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3379537288 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>About Assignment Card</source>
+<target state="translated">Om opgavekortet</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SLL Assignment Card - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 3379537288 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Details of an Assignment.</source>
+<target state="translated">Detaljer om en opgave.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SLL Assignment Card - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 3379537288 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Assignment Card</source>
+<target state="translated">Opgavekort</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SLL Assignment Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3379537288 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+<target state="translated">Generelt</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SLL Assignment Card - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3379537288 - Control 3877927551 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Category Code field.</source>
+<target state="translated">Angiver det filter, der viser en oversigt over bilag med en bestemt værdi, i feltet Debitornr.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SLL Assignment Card - Control Category Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3379537288 - Control 1171137197 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Customer Name field.</source>
+<target state="translated">Angiver værdien af feltet Kundens navn.</target>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SLL Assignment Card - Control Customer Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3379537288 - Control 4190130733 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Customer No. field.</source>
+<target state="translated">Angiver værdien af feltet Opgave nr.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SLL Assignment Card - Control Customer No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3379537288 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description field.</source>
+<target state="translated">Angiver værdien i feltet Beskrivelse på varekortet. Hvis du angiver en variantkode, kopieres variantbeskrivelsen til feltet i stedet for.</target>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SLL Assignment Card - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3379537288 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Assignment No. field.</source>
+<target state="translated">Angiver det filter, der viser en oversigt over bilag med en bestemt værdi, i feltet Status.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SLL Assignment Card - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3379537288 - Control 513339096 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Status field.</source>
+<target state="translated">Angiver værdien af feltet Titel.</target>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SLL Assignment Card - Control Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3379537288 - Control 329424276 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+<target state="translated"><trans-unit id="Side 3379537288 - Kontrol 329424276 - Egenskab 1295455071" size-unit="char" translate="yes" xml:space="preserve"></target>
+          <source>Specifies the value of the Title field.</source>
+<target state="translated">Opret en ny opgave.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SLL Assignment Card - Control Title - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3379537288 - Control 2708250016 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the User ID field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SLL Assignment Card - Control User ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3379537288 - Control 1815952693 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>System Information</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SLL Assignment Card - Control SystemInfo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3379537288 - Control 577209412 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the SystemCreatedAt field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SLL Assignment Card - Control SystemCreatedAt - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3379537288 - Control 4000648066 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the SystemCreatedBy field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SLL Assignment Card - Control SystemCreatedBy - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3379537288 - Control 1367528460 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the SystemId field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SLL Assignment Card - Control SystemId - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3379537288 - Control 2453272523 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the SystemModifiedAt field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SLL Assignment Card - Control SystemModifiedAt - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3379537288 - Control 4085837753 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the SystemModifiedBy field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SLL Assignment Card - Control SystemModifiedBy - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1072124513 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Assignment Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SLL Assignment Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1072124513 - Control 4104484437 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Assignment Handler Type field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SLL Assignment Setup - Control Assignment Handler - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1072124513 - Control 1351594800 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the No. Series field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SLL Assignment Setup - Control No. Series - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1758972917 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Assignment Setup Wizard.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SLL Assignment Wizard - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1758972917 - Control 3647570164 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Let's go!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SLL Assignment Wizard - Control Let's go! - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1758972917 - Control 727926705 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>In the following you will setup the No. Series for the Assignment.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SLL Assignment Wizard - Control Group22 - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 1758972917 - Control 1718011614 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Welcome to Assignment Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SLL Assignment Wizard - Control Welcome to Assignment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1758972917 - Control 1612614122 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is the Setup Wizard for setting up the Assignment Solution.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SLL Assignment Wizard - Control Group18 - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 1758972917 - Control 2279239964 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>In this step you will set up your No. Series used for your assignments.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SLL Assignment Wizard - Control Step2 - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 1758972917 - Control 1365623322 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Congratulations you finished the setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SLL Assignment Wizard - Control Group23 - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 1758972917 - Control 1546979963 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>That's it!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SLL Assignment Wizard - Control That's it! - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1758972917 - Control 2641016556 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>To save this setup, choose Finish.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SLL Assignment Wizard - Control Group25 - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 1758972917 - Action 2438272767 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Back</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SLL Assignment Wizard - Action ActionBack - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1758972917 - Action 3259912055 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Finish</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SLL Assignment Wizard - Action ActionFinish - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1758972917 - Action 914282563 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Next</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SLL Assignment Wizard - Action ActionNext - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4211937226 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Assignment Report</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SLL Assignment Report - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 1912896345 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Assignment CSV Port</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort SLL Assignment CSV Port - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 299444644 - EnumValue 4270618302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DemoDataLoader</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SLL Assignment Handler Type - EnumValue DemoDataLoader - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 299444644 - EnumValue 4055435845 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>JsonPlaceholder</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SLL Assignment Handler Type - EnumValue JsonPlaceholder - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3367676664 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Assignment Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SLL Assignment Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3367676664 - EnumValue 3665605423 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Completed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SLL Assignment Status - EnumValue Completed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3367676664 - EnumValue 1090713286 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>In Progress</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SLL Assignment Status - EnumValue In Progress - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3367676664 - EnumValue 4037505346 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Incomplete</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SLL Assignment Status - EnumValue Incomplete - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3367676664 - EnumValue 2052431574 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Removed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SLL Assignment Status - EnumValue Removed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="EnumExtension 594227532 - EnumValue 1622795118 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Enum 1150498218">
+          <source>Assignment Solution</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">EnumExtension SLL Assign. Ass. Setup Grp Ext - EnumValue Assignment Solution - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

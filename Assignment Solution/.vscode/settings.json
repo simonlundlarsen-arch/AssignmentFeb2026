@@ -1,0 +1,9 @@
+{
+    "CRS.NamespacePrefixToIgnore": "",
+    "CRS.RemovePrefixFromFilename": true,
+    "CRS.FileNamePattern": "<ObjectNameShort>.<ObjectType>.al",
+    "CRS.ObjectNamePrefix": "SLL ",
+    "CRS.FileNamePatternExtensions": "<ObjectNameShort>.<ObjectType>.al",
+    "CRS.FileNamePatternPageCustomizations": "<ObjectNameShort>.<ObjectType>.al",
+    "CRS.OnSaveAlFileAction": "DoNothing",
+}
